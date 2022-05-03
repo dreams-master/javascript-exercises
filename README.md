@@ -30,3 +30,7 @@ https://www.teaching-materials.org/javascript/exercises/ifelse
 ## forloops
 
 https://www.teaching-materials.org/javascript/exercises/forloops
+
+## arrays
+
+https://www.teaching-materials.org/javascript/exercises/arrays

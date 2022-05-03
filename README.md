@@ -2,14 +2,20 @@
 
 Run them using node
 
-## variables
+## part 1
+
+### variables
 
 https://www.teaching-materials.org/javascript/exercises/variables
 
-## functions
+### functions
 
 https://www.teaching-materials.org/javascript/exercises/functions
 
-## calculator
+### calculator
 
 https://www.teaching-materials.org/javascript/exercises/calculator
+
+### strings
+
+https://www.teaching-materials.org/javascript/exercises/strings

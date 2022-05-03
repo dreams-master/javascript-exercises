@@ -21,21 +21,21 @@ https://www.teaching-materials.org/javascript/exercises/calculator
 https://www.teaching-materials.org/javascript/exercises/strings
 
 
-# part 2
+## part 2
 
-## ifelse
+### ifelse
 
 https://www.teaching-materials.org/javascript/exercises/ifelse
 
-## forloops
+### forloops
 
 https://www.teaching-materials.org/javascript/exercises/forloops
 
-## arrays
+### arrays
 
 https://www.teaching-materials.org/javascript/exercises/arrays
 
-## wordguesser
+### wordguesser
 
 https://www.teaching-materials.org/javascript/exercises/wordguesser
 

@@ -19,3 +19,10 @@ https://www.teaching-materials.org/javascript/exercises/calculator
 ### strings
 
 https://www.teaching-materials.org/javascript/exercises/strings
+
+
+# part 2
+
+## ifelse
+
+https://www.teaching-materials.org/javascript/exercises/ifelse

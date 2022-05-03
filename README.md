@@ -38,3 +38,10 @@ https://www.teaching-materials.org/javascript/exercises/arrays
 ## wordguesser
 
 https://www.teaching-materials.org/javascript/exercises/wordguesser
+
+
+## part 3
+
+### objects
+
+https://www.teaching-materials.org/javascript/exercises/objects

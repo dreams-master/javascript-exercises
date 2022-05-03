@@ -50,4 +50,6 @@ https://www.teaching-materials.org/javascript/exercises/objects
 
 https://www.teaching-materials.org/javascript/exercises/objectarguments
 
+### cashregister
 
+https://www.teaching-materials.org/javascript/exercises/cashregister

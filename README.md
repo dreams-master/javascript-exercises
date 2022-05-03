@@ -34,3 +34,7 @@ https://www.teaching-materials.org/javascript/exercises/forloops
 ## arrays
 
 https://www.teaching-materials.org/javascript/exercises/arrays
+
+## wordguesser
+
+https://www.teaching-materials.org/javascript/exercises/wordguesser

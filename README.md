@@ -53,3 +53,7 @@ https://www.teaching-materials.org/javascript/exercises/objectarguments
 ### cashregister
 
 https://www.teaching-materials.org/javascript/exercises/cashregister
+
+### creditcard
+
+https://www.teaching-materials.org/javascript/exercises/creditcard

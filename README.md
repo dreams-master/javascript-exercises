@@ -45,3 +45,9 @@ https://www.teaching-materials.org/javascript/exercises/wordguesser
 ### objects
 
 https://www.teaching-materials.org/javascript/exercises/objects
+
+### objectarguments
+
+https://www.teaching-materials.org/javascript/exercises/objectarguments
+
+

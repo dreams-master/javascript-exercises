@@ -26,3 +26,7 @@ https://www.teaching-materials.org/javascript/exercises/strings
 ## ifelse
 
 https://www.teaching-materials.org/javascript/exercises/ifelse
+
+## forloops
+
+https://www.teaching-materials.org/javascript/exercises/forloops
